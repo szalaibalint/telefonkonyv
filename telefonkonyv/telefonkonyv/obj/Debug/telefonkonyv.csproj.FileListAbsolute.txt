@@ -1,0 +1,7 @@
+D:\progi\telefonkonyv\telefonkonyv\bin\Debug\telefonkonyv.exe.config
+D:\progi\telefonkonyv\telefonkonyv\bin\Debug\telefonkonyv.exe
+D:\progi\telefonkonyv\telefonkonyv\bin\Debug\telefonkonyv.pdb
+D:\progi\telefonkonyv\telefonkonyv\obj\Debug\telefonkonyv.csproj.AssemblyReference.cache
+D:\progi\telefonkonyv\telefonkonyv\obj\Debug\telefonkonyv.csproj.CoreCompileInputs.cache
+D:\progi\telefonkonyv\telefonkonyv\obj\Debug\telefonkonyv.exe
+D:\progi\telefonkonyv\telefonkonyv\obj\Debug\telefonkonyv.pdb

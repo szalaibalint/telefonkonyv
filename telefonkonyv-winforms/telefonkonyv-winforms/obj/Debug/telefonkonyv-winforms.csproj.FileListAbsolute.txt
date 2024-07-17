@@ -1,0 +1,10 @@
+D:\progi\telefonkonyv-winforms\telefonkonyv-winforms\bin\Debug\telefonkonyv-winforms.exe.config
+D:\progi\telefonkonyv-winforms\telefonkonyv-winforms\bin\Debug\telefonkonyv-winforms.exe
+D:\progi\telefonkonyv-winforms\telefonkonyv-winforms\bin\Debug\telefonkonyv-winforms.pdb
+D:\progi\telefonkonyv-winforms\telefonkonyv-winforms\obj\Debug\telefonkonyv-winforms.csproj.AssemblyReference.cache
+D:\progi\telefonkonyv-winforms\telefonkonyv-winforms\obj\Debug\telefonkonyv_winforms.Properties.Resources.resources
+D:\progi\telefonkonyv-winforms\telefonkonyv-winforms\obj\Debug\telefonkonyv-winforms.csproj.GenerateResource.cache
+D:\progi\telefonkonyv-winforms\telefonkonyv-winforms\obj\Debug\telefonkonyv-winforms.csproj.CoreCompileInputs.cache
+D:\progi\telefonkonyv-winforms\telefonkonyv-winforms\obj\Debug\telefonkonyv-winforms.exe
+D:\progi\telefonkonyv-winforms\telefonkonyv-winforms\obj\Debug\telefonkonyv-winforms.pdb
+D:\progi\telefonkonyv-winforms\telefonkonyv-winforms\obj\Debug\telefonkonyv_winforms.Form1.resources
